@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto Miraculous</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <!--Logo do meu site-->
+        <img src="miraculous_logo.01.png" alt="miraculous-logo">
+        <nav>
+            <!--Menu de navegação-->
+            <ul>
+                <li><a href="#">Personagens</a></li>
+                 <li><a href="#">Filmes</a></li>
+                  <li><a href="#">Símbolos</a></li>
+                   <li><a href="#">Teorias</a></li>
+            </ul>
+        </nav>
+    </header>
+   
+</body>
+</html>
