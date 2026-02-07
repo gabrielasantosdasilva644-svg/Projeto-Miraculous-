@@ -20,6 +20,26 @@
             </ul>
         </nav>
     </header>
+<section class="hero">
+        <h1>Projeto Miraculous</h1>
+        
+        <div class="dots">
+            <span class="active"></span>
+            <span></span>
+            <span></span>
+
+        </div>
+    </section>
+
+    <section class="gallery">
+        <h2>Galeria de Imagens</h2>
+        
+        <div>
+            <img src="miraculous_imagens.png" alt="Miraculous">
+            <p>Legenda</p>
+
+        </div>
+    </section>
    
 </body>
 </html>
